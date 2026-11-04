@@ -1,18 +1,18 @@
 # Abhijeet Kumar
 
-> Abhijeet Kumar is an AI developer and creator based in Ranchi, Jharkhand, India. He builds websites, 3D websites, apps, AI videos, video edits, motion graphics and thumbnails using an AI-first workflow — fast, clean and made to grow your business. The first demo is free.
+> Abhijeet Kumar is an AI developer and creator. He builds websites, 3D websites, apps, AI videos, video edits, motion graphics and graphic designing using an AI-first workflow — fast, clean and made to grow your business. The first demo is free.
 
 ## Who he is
 - Name: Abhijeet Kumar
 - Role: AI Developer, Video Editor & Web Designer ("AI-POWERED CREATOR")
-- Location: Ranchi, Jharkhand, India — works with clients in India and worldwide (remote)
+- Works with clients worldwide (remote)
 - Reply time: usually within 24 hours
 
 ## Services
 - AI Video Creation: Ads, reels and stories generated and directed with AI.
 - Video Editing: Short-form and long-form edits with pace, captions and polish.
 - Motion Graphics: Animated titles, logos and explainers that move with intent.
-- Graphic Design & Thumbnails: Thumbnails, posts and brand visuals made to get the click.
+- Graphic Designing: Posters, social posts, logos and brand visuals that stand out.
 - Websites & Landing Pages: Fast, modern, SEO-ready sites that turn visitors into leads.
 - 3D Websites: Interactive Three.js experiences that make people stop and play.
 - Apps & Software: Web apps, SaaS tools and dashboards built with an AI-first stack.
@@ -21,7 +21,7 @@
 - Tell me your idea. I'll build a free first demo so you see it before you pay.
 
 ## Tools and stack
-Next.js, React, Three.js, Supabase, Vercel, Prompt Engineering, AI Video, Video Editing, Motion Graphics, Thumbnail Design, Claude Code, Codex, Cursor; also ChatGPT, Claude, Claude Code, Codex, OpenCode, Gemini, Antigravity, Windsurf, Cursor, GitHub Copilot, Vercel, Next.js, React, Supabase, Node.js, Three.js, GitHub, NVIDIA, Playwright, Figma, Canva.
+Next.js, React, Three.js, Supabase, Vercel, Prompt Engineering, AI Video, Video Editing, Motion Graphics, Graphic Designing, Claude Code, Codex, Cursor; also ChatGPT, Claude, Claude Code, Codex, OpenCode, Gemini, Antigravity, Windsurf, Cursor, GitHub Copilot, Vercel, Next.js, React, Supabase, Node.js, Three.js, GitHub, NVIDIA, Playwright, Figma, Canva.
 
 ## Journey
 - 2026 — NOW: Building ChaseFree AI — AI invoicing assistant for freelancers
@@ -34,7 +34,7 @@ Next.js, React, Three.js, Supabase, Vercel, Prompt Engineering, AI Video, Video 
 
 ## FAQ
 ### What services do you offer?
-AI video creation, video editing, motion graphics, graphic design and thumbnails, websites and landing pages, 3D websites, and apps and software.
+AI video creation, video editing, motion graphics, graphic designing, websites and landing pages, 3D websites, and apps and software.
 
 ### Is the first demo really free?
 Yes. Tell me your idea and I'll build a free first demo, so you can see it before you pay anything.

@@ -33,12 +33,12 @@ const strip = (s) => String(s).replace(/<br\s*\/?>/g, ' ').replace(/<[^>]+>/g, '
 const work = GALLERY.length ? GALLERY.map((g) => `- ${g.title} (${g.category}${g.year ? ', ' + g.year : ''})${g.link ? ': ' + g.link : ''}`).join('\n') : '- New projects are being added to the gallery one by one.';
 fs.writeFileSync(path.join(root, 'llms.txt'), `# ${SITE.fullName}
 
-> ${SITE.fullName} is an AI developer and creator based in ${SITE.location}. He builds websites, 3D websites, apps, AI videos, video edits, motion graphics and thumbnails using an AI-first workflow — fast, clean and made to grow your business. The first demo is free.
+> ${SITE.fullName} is an AI developer and creator. He builds websites, 3D websites, apps, AI videos, video edits, motion graphics and graphic designing using an AI-first workflow — fast, clean and made to grow your business. The first demo is free.
 
 ## Who he is
 - Name: ${SITE.fullName}
 - Role: AI Developer, Video Editor & Web Designer ("${strip(SITE.hero.kicker)}")
-- Location: ${SITE.location} — works with clients in India and worldwide (remote)
+- Works with clients worldwide (remote)
 - Reply time: usually within 24 hours
 
 ## Services

@@ -18,19 +18,18 @@ const SITE = {
   fullName: "Abhijeet Kumar",
   nameAccent: ".",                       // accent character after the name
   role: "AI DEVELOPER & CREATOR",
-  location: "Ranchi, Jharkhand, India",
   whatsapp: WHATSAPP_URL,
   defaultTheme: "dark",                  // "dark" | "light" (visitor's choice is remembered)
 
   seo: {
     url: "https://abhijeet-portfolio-orpin.vercel.app",   // ← change once, used for canonical / OG / sitemap / JSON-LD
-    title: "Abhijeet Kumar — AI Developer, Video Editor & Web Designer | Ranchi, India",
+    title: "Abhijeet Kumar — AI Developer, Video Editor & Web Designer",
     galleryTitle: "Gallery — Abhijeet Kumar | AI Videos, Websites, 3D Sites & Apps",
-    description: "Abhijeet Kumar is an AI developer and creator from Ranchi, India. He builds websites, 3D websites, apps, AI videos, video edits, motion graphics and thumbnails with AI — fast, clean and made to grow your business. First demo free.",
-    galleryDescription: "The full gallery of Abhijeet Kumar's work: AI video, video editing, motion graphics, graphic design and thumbnails, 3D websites, websites and apps.",
-    ogImage: "og.jpg?v=3",            // home share preview (dark)
-    galleryOgImage: "og-gallery.jpg?v=3", // gallery share preview (light) — bump ?v= after changing images so WhatsApp/LinkedIn refresh
-    keywords: "Abhijeet Kumar, AI developer, video editor, web designer, Ranchi, Jharkhand, India, AI video, motion graphics, thumbnail design, Next.js developer, 3D website, landing page, freelancer"
+    description: "Abhijeet Kumar is an AI developer and creator. He builds websites, 3D websites, apps, AI videos, video edits, motion graphics and graphic designing with AI — fast, clean and made to grow your business. First demo free.",
+    galleryDescription: "The full gallery of Abhijeet Kumar's work: AI video, video editing, motion graphics, graphic designing, 3D websites, websites and apps.",
+    ogImage: "og.jpg?v=4",            // home share preview (dark)
+    galleryOgImage: "og-gallery.jpg?v=4", // gallery share preview (light) — bump ?v= after changing images so WhatsApp/LinkedIn refresh
+    keywords: "Abhijeet Kumar, AI developer, video editor, web designer, AI video, motion graphics, graphic designing, Next.js developer, 3D website, landing page, freelancer"
   },
 
   nav: [
@@ -44,7 +43,7 @@ const SITE = {
 
   hero: {
     kicker: "AI-POWERED CREATOR",
-    label: "RANCHI, INDIA · WORLDWIDE",
+    label: "WORKING WORLDWIDE",
     availability: "OPEN FOR NEW PROJECTS",
     giantWord: "PORTFOLIO",
     hello: "Hello, I'm",
@@ -69,7 +68,7 @@ const SITE = {
     title: "BUILT WITH AI.<br>MADE TO WORK.",
     allLabel: "View full gallery",
     galleryHref: "gallery.html",
-    filters: ["All", "AI Video", "Video Editing", "Motion Graphics", "Graphic Design", "3D Websites", "Websites", "Apps"],
+    filters: ["All", "AI Video", "Video Editing", "Motion Graphics", "Graphic Designing", "3D Websites", "Websites", "Apps"],
     homeCount: 6,
     totalLabel: "SEE ALL",
     stackLabel1: "TOOLS I BUILD WITH",
@@ -101,7 +100,7 @@ const SITE = {
       { title: "AI Video Creation",          sub: "Ads, reels and stories generated and directed with AI.",          tag: "AI" },
       { title: "Video Editing",              sub: "Short-form and long-form edits with pace, captions and polish.",  tag: "EDIT" },
       { title: "Motion Graphics",            sub: "Animated titles, logos and explainers that move with intent.",    tag: "MOTION" },
-      { title: "Graphic Design & Thumbnails", sub: "Thumbnails, posts and brand visuals made to get the click.",      tag: "DESIGN" },
+      { title: "Graphic Designing", sub: "Posters, social posts, logos and brand visuals that stand out.",      tag: "DESIGN" },
       { title: "Websites & Landing Pages",   sub: "Fast, modern, SEO-ready sites that turn visitors into leads.",    tag: "WEB" },
       { title: "3D Websites",                sub: "Interactive Three.js experiences that make people stop and play.", tag: "3D" },
       { title: "Apps & Software",            sub: "Web apps, SaaS tools and dashboards built with an AI-first stack.", tag: "APP" }
@@ -124,7 +123,7 @@ const SITE = {
     title1: "NOT JUST CODE.",
     title2a: "BUT HOW AI MAKES IT",
     title2b: "FASTER.",
-    intro: "I'm Abhijeet, an AI developer and creator from Ranchi, India. I mix modern web tech with AI tools to design, build and edit websites, apps and videos that look premium and ship fast.",
+    intro: "I'm Abhijeet, an AI developer and creator. I mix modern web tech with AI tools to design, build and edit websites, apps and videos that look premium and ship fast.",
     skillsLabel: "WHAT I'M GOOD AT",
     skills: [
       { title: "Websites & web apps",   sub: "Next.js · React · Supabase · Vercel" },
@@ -132,7 +131,7 @@ const SITE = {
       { title: "AI-first workflow",     sub: "Claude Code · Codex · Cursor · prompt engineering" }
     ],
     toolkitLabel: "TOOLKIT",
-    toolkit: ["Next.js", "React", "Three.js", "Supabase", "Vercel", "Prompt Engineering", "AI Video", "Video Editing", "Motion Graphics", "Thumbnail Design", "Claude Code", "Codex", "Cursor"],
+    toolkit: ["Next.js", "React", "Three.js", "Supabase", "Vercel", "Prompt Engineering", "AI Video", "Video Editing", "Motion Graphics", "Graphic Designing", "Claude Code", "Codex", "Cursor"],
     process: [
       { n: "01", t: "Prompt", d: "We talk through your idea and turn it into a clear plan and prompt." },
       { n: "02", t: "Build",  d: "AI speeds up the heavy lifting. I shape every detail by hand." },
@@ -171,7 +170,7 @@ const SITE = {
     text: "Still curious about something? Ask me directly — I usually reply within 24 hours.",
     cta: "Ask on WhatsApp",
     items: [
-      { q: "What services do you offer?", a: "AI video creation, video editing, motion graphics, graphic design and thumbnails, websites and landing pages, 3D websites, and apps and software." },
+      { q: "What services do you offer?", a: "AI video creation, video editing, motion graphics, graphic designing, websites and landing pages, 3D websites, and apps and software." },
       { q: "Is the first demo really free?", a: "Yes. Tell me your idea and I'll build a free first demo, so you can see it before you pay anything." },
       { q: "How long does a project take?", a: "It depends on the scope. Landing pages and short videos usually take a few days; bigger websites and apps take longer. You get a clear timeline after we talk." },
       { q: "Which AI tools do you use?", a: "Claude Code, Codex, Cursor, ChatGPT and Gemini for building and writing, AI video tools for creation, and Next.js, React, Supabase and Vercel for the web." },

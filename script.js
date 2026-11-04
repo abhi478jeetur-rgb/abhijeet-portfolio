@@ -32,7 +32,7 @@
     c_apps: `<rect x="6" y="2.5" width="12" height="19" rx="3" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="8.6" y="6" width="2.8" height="2.8" rx=".7" fill="currentColor"/><rect x="12.6" y="6" width="2.8" height="2.8" rx=".7" fill="currentColor"/><rect x="8.6" y="10" width="2.8" height="2.8" rx=".7" fill="currentColor"/><rect x="12.6" y="10" width="2.8" height="2.8" rx=".7" fill="currentColor" opacity=".5"/><path d="M10.5 18.5h3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>`
   };
   const ALIAS = { gemini: "googlegemini", next: "nextdotjs", node: "nodedotjs", three: "threedotjs", copilot: "githubcopilot" };
-  const CAT_GLYPH = { "AI Video": "c_aivideo", "Video Editing": "c_editing", "Motion Graphics": "c_motion", "Graphic Design": "c_design", "3D Websites": "c_3d", "Websites": "c_web", "Apps": "c_apps" };
+  const CAT_GLYPH = { "AI Video": "c_aivideo", "Video Editing": "c_editing", "Motion Graphics": "c_motion", "Graphic Designing": "c_design", "3D Websites": "c_3d", "Websites": "c_web", "Apps": "c_apps" };
   const icon = (id, cls = "") => {
     const key = ALIAS[id] || id;
     if (CUSTOM[key]) return `<svg class="ic ${cls}" viewBox="0 0 24 24" aria-hidden="true">${CUSTOM[key]}</svg>`;
@@ -84,16 +84,14 @@
       "@type": "Person", "@id": BASE + "/#person", name: SITE.fullName, url: BASE + "/",
       image: BASE + "/assets/img/cutout-1200.webp", jobTitle: "AI Developer, Video Editor & Web Designer",
       description: SEO.description, telephone: "+91-94303-22551",
-      address: { "@type": "PostalAddress", addressLocality: "Ranchi", addressRegion: "Jharkhand", addressCountry: "IN" },
-      knowsAbout: ["AI video creation", "Video editing", "Motion graphics", "Graphic design", "Thumbnail design", "Web design", "3D websites", "Next.js", "React", "Three.js", "Supabase", "Prompt engineering", "App development"],
+      knowsAbout: ["AI video creation", "Video editing", "Motion graphics", "Graphic design",  "Web design", "3D websites", "Next.js", "React", "Three.js", "Supabase", "Prompt engineering", "App development"],
       sameAs
     };
     const service = {
       "@type": "ProfessionalService", "@id": BASE + "/#service", name: SITE.fullName + " — AI Development & Creative Services",
       url: BASE + "/", image: BASE + "/og.jpg", telephone: "+91-94303-22551", priceRange: "Free first demo",
       founder: { "@id": BASE + "/#person" },
-      address: { "@type": "PostalAddress", addressLocality: "Ranchi", addressRegion: "Jharkhand", addressCountry: "IN" },
-      areaServed: [{ "@type": "Country", name: "India" }, { "@type": "Place", name: "Worldwide (remote)" }],
+      areaServed: "Worldwide",
       hasOfferCatalog: {
         "@type": "OfferCatalog", name: "Services",
         itemListElement: SITE.services.list.map((s) => ({ "@type": "Offer", itemOffered: { "@type": "Service", name: s.title, description: s.sub, provider: { "@id": BASE + "/#person" } } }))

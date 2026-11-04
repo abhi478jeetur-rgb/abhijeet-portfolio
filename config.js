@@ -174,7 +174,7 @@ const SITE = {
       { q: "Is the first demo really free?", a: "Yes. Tell me your idea and I'll build a free first demo, so you can see it before you pay anything." },
       { q: "How long does a project take?", a: "It depends on the scope. Landing pages and short videos usually take a few days; bigger websites and apps take longer. You get a clear timeline after we talk." },
       { q: "Which AI tools do you use?", a: "Claude Code, Codex, Cursor, ChatGPT and Gemini for building and writing, AI video tools for creation, and Next.js, React, Supabase and Vercel for the web." },
-      { q: "How can I contact you?", a: "WhatsApp is the fastest: +91 94303 22551. You can also reach me on Instagram, LinkedIn or GitHub. I usually reply within 24 hours." }
+      { q: "How can I contact you?", a: "WhatsApp is the fastest: +91 94303 22551. You can also reach me on Instagram, LinkedIn, GitHub or Freelancer. I usually reply within 24 hours." }
     ]
   },
 
@@ -188,7 +188,8 @@ const SITE = {
       { type: "whatsapp",  label: "WhatsApp",  value: "+91 94303 22551",   href: WHATSAPP_URL },
       { type: "instagram", label: "Instagram", value: "@abhi.jeetkuumar",  href: "https://www.instagram.com/abhi.jeetkuumar/" },
       { type: "linkedin",  label: "LinkedIn",  value: "Abhijeet Kumar",    href: "https://www.linkedin.com/in/abhijeet-kumar-4b6a083b0/" },
-      { type: "github",    label: "GitHub",    value: "abhi478jeetur-rgb", href: "https://github.com/abhi478jeetur-rgb" }
+      { type: "github",    label: "GitHub",    value: "abhi478jeetur-rgb", href: "https://github.com/abhi478jeetur-rgb" },
+      { type: "freelancer", label: "Freelancer", value: "abhijeetk371",    href: "https://www.freelancer.com/u/abhijeetk371" }
     ],
     cardTitle1: "MAKE IT",
     cardTitle2: "FEEL ALIVE."
@@ -198,6 +199,7 @@ const SITE = {
     { type: "instagram", label: "Instagram", href: "https://www.instagram.com/abhi.jeetkuumar/" },
     { type: "github",    label: "GitHub",    href: "https://github.com/abhi478jeetur-rgb" },
     { type: "peerlist",  label: "Peerlist",  href: "https://peerlist.io/abhijeetkuumar" },
+    { type: "freelancer", label: "Freelancer", href: "https://www.freelancer.com/u/abhijeetk371" },
     { type: "linkedin",  label: "LinkedIn",  href: "https://www.linkedin.com/in/abhijeet-kumar-4b6a083b0/" },
     { type: "x",         label: "X",         href: "https://x.com/Abhijeetkuumar" },
     { type: "youtube",   label: "YouTube",   href: "https://www.youtube.com/@AbhijeetKumarz7r" },

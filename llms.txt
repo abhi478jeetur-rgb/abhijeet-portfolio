@@ -1,0 +1,62 @@
+# Abhijeet Kumar
+
+> Abhijeet Kumar is an AI developer and creator based in Ranchi, Jharkhand, India. He builds websites, 3D websites, apps, AI videos, video edits, motion graphics and thumbnails using an AI-first workflow — fast, clean and made to grow your business. The first demo is free.
+
+## Who he is
+- Name: Abhijeet Kumar
+- Role: AI Developer, Video Editor & Web Designer ("AI-POWERED CREATOR")
+- Location: Ranchi, Jharkhand, India — works with clients in India and worldwide (remote)
+- Reply time: usually within 24 hours
+
+## Services
+- AI Video Creation: Ads, reels and stories generated and directed with AI.
+- Video Editing: Short-form and long-form edits with pace, captions and polish.
+- Motion Graphics: Animated titles, logos and explainers that move with intent.
+- Graphic Design & Thumbnails: Thumbnails, posts and brand visuals made to get the click.
+- Websites & Landing Pages: Fast, modern, SEO-ready sites that turn visitors into leads.
+- 3D Websites: Interactive Three.js experiences that make people stop and play.
+- Apps & Software: Web apps, SaaS tools and dashboards built with an AI-first stack.
+
+## Offer
+- Tell me your idea. I'll build a free first demo so you see it before you pay.
+
+## Tools and stack
+Next.js, React, Three.js, Supabase, Vercel, Prompt Engineering, AI Video, Video Editing, Motion Graphics, Thumbnail Design, Claude Code, Codex, Cursor; also ChatGPT, Claude, Claude Code, Codex, OpenCode, Gemini, Antigravity, Windsurf, Cursor, GitHub Copilot, Vercel, Next.js, React, Supabase, Node.js, Three.js, GitHub, NVIDIA, Playwright, Figma, Canva.
+
+## Journey
+- 2026 — NOW: Building ChaseFree AI — AI invoicing assistant for freelancers
+- 2026: Hubber Web — Websites & landing pages for clients
+- 2025 — 2026: AI Video & Editing — Short-form, AI video and motion work
+- 2025: Started with code — HTML, JS, then React & Next.js
+
+## Selected work
+- New projects are being added to the gallery one by one.
+
+## FAQ
+### What services do you offer?
+AI video creation, video editing, motion graphics, graphic design and thumbnails, websites and landing pages, 3D websites, and apps and software.
+
+### Is the first demo really free?
+Yes. Tell me your idea and I'll build a free first demo, so you can see it before you pay anything.
+
+### How long does a project take?
+It depends on the scope. Landing pages and short videos usually take a few days; bigger websites and apps take longer. You get a clear timeline after we talk.
+
+### Which AI tools do you use?
+Claude Code, Codex, Cursor, ChatGPT and Gemini for building and writing, AI video tools for creation, and Next.js, React, Supabase and Vercel for the web.
+
+### How can I contact you?
+WhatsApp is the fastest: +91 94303 22551. You can also reach me on Instagram, LinkedIn or GitHub. I usually reply within 24 hours.
+
+## Contact
+- WhatsApp: +91 94303 22551 — https://wa.me/919430322551?text=Hi%20Abhijeet%2C%20main%20aapse%20baat%20karna%20chahta%20hoon.%20Mujhe%20aapse%20kaam%20ke%20baare%20mein%20baat%20karni%20hai.
+- Instagram: @abhi.jeetkuumar — https://www.instagram.com/abhi.jeetkuumar/
+- LinkedIn: Abhijeet Kumar — https://www.linkedin.com/in/abhijeet-kumar-4b6a083b0/
+- GitHub: abhi478jeetur-rgb — https://github.com/abhi478jeetur-rgb
+- Peerlist: https://peerlist.io/abhijeetkuumar
+- X: https://x.com/Abhijeetkuumar
+- YouTube: https://www.youtube.com/@AbhijeetKumarz7r
+
+## Pages
+- Home: https://abhijeet-portfolio.vercel.app/
+- Gallery: https://abhijeet-portfolio.vercel.app/gallery.html

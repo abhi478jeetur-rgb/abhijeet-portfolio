@@ -23,13 +23,13 @@ const SITE = {
   defaultTheme: "dark",                  // "dark" | "light" (visitor's choice is remembered)
 
   seo: {
-    url: "https://abhijeet-portfolio.vercel.app",   // ← change once, used for canonical / OG / sitemap / JSON-LD
+    url: "https://abhijeet-portfolio-orpin.vercel.app",   // ← change once, used for canonical / OG / sitemap / JSON-LD
     title: "Abhijeet Kumar — AI Developer, Video Editor & Web Designer | Ranchi, India",
     galleryTitle: "Gallery — Abhijeet Kumar | AI Videos, Websites, 3D Sites & Apps",
     description: "Abhijeet Kumar is an AI developer and creator from Ranchi, India. He builds websites, 3D websites, apps, AI videos, video edits, motion graphics and thumbnails with AI — fast, clean and made to grow your business. First demo free.",
     galleryDescription: "The full gallery of Abhijeet Kumar's work: AI video, video editing, motion graphics, graphic design and thumbnails, 3D websites, websites and apps.",
-    ogImage: "og.jpg?v=2",            // home share preview (dark)
-    galleryOgImage: "og-gallery.jpg?v=2", // gallery share preview (light) — bump ?v= after changing images so WhatsApp/LinkedIn refresh
+    ogImage: "og.jpg?v=3",            // home share preview (dark)
+    galleryOgImage: "og-gallery.jpg?v=3", // gallery share preview (light) — bump ?v= after changing images so WhatsApp/LinkedIn refresh
     keywords: "Abhijeet Kumar, AI developer, video editor, web designer, Ranchi, Jharkhand, India, AI video, motion graphics, thumbnail design, Next.js developer, 3D website, landing page, freelancer"
   },
 

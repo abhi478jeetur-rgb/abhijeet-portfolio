@@ -58,5 +58,5 @@ WhatsApp is the fastest: +91 94303 22551. You can also reach me on Instagram, Li
 - YouTube: https://www.youtube.com/@AbhijeetKumarz7r
 
 ## Pages
-- Home: https://abhijeet-portfolio.vercel.app/
-- Gallery: https://abhijeet-portfolio.vercel.app/gallery.html
+- Home: https://abhijeet-portfolio-orpin.vercel.app/
+- Gallery: https://abhijeet-portfolio-orpin.vercel.app/gallery.html

@@ -12,4 +12,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://abhijeet-portfolio.vercel.app/sitemap.xml
+Sitemap: https://abhijeet-portfolio-orpin.vercel.app/sitemap.xml

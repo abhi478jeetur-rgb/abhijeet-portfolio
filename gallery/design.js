@@ -1,3 +1,12 @@
 /* Graphic Designing + Motion Graphics + AI Video items (owned by Hark-One). Newest first. */
 window.GALLERY_DESIGN = [
+  { title: "ChaseFree AI — Keynote-Style Reveal", category: "Motion Graphics", year: "2026", preview: "assets/gallery/chasefree-keynote-reveal.webp", video: "assets/gallery/chasefree-keynote-reveal.webm", link: "https://abhijeet-portfolio-orpin.vercel.app/assets/gallery/chasefree-keynote-reveal.mp4" },
+  { title: "Hubber Web — Startup Launch Promo", category: "Motion Graphics", year: "2026", preview: "assets/gallery/hubber-web-launch-promo.webp", video: "assets/gallery/hubber-web-launch-promo.webm", link: "https://abhijeet-portfolio-orpin.vercel.app/assets/gallery/hubber-web-launch-promo.mp4" },
+  { title: "ChaseFree AI — App UI Reveal", category: "Motion Graphics", year: "2026", preview: "assets/gallery/chasefree-app-reveal.webp", video: "assets/gallery/chasefree-app-reveal.webm", link: "https://abhijeet-portfolio-orpin.vercel.app/assets/gallery/chasefree-app-reveal.mp4" },
+  { title: "ChaseFree AI — Launch Poster", category: "Graphic Designing", year: "2026", preview: "assets/gallery/chasefree-launch-poster.webp", link: "https://abhijeet-portfolio-orpin.vercel.app/assets/gallery/chasefree-launch-poster-full.webp" },
+  { title: "Hubber Web — Social Post", category: "Graphic Designing", year: "2026", preview: "assets/gallery/hubber-web-social-post.webp", link: "https://abhijeet-portfolio-orpin.vercel.app/assets/gallery/hubber-web-social-post-full.webp" },
+  { title: "7 AI Tools — YouTube Thumbnail", category: "Graphic Designing", year: "2026", preview: "assets/gallery/ai-tools-thumbnail.webp", link: "https://abhijeet-portfolio-orpin.vercel.app/assets/gallery/ai-tools-thumbnail-full.webp" },
+  { title: "Crypto Crashed — YouTube Thumbnail", category: "Graphic Designing", year: "2026", preview: "assets/gallery/crypto-news-thumbnail.webp", link: "https://abhijeet-portfolio-orpin.vercel.app/assets/gallery/crypto-news-thumbnail-full.webp" },
+  { title: "Learn to Code in 30 Days — YouTube Thumbnail", category: "Graphic Designing", year: "2026", preview: "assets/gallery/coding-thumbnail.webp", link: "https://abhijeet-portfolio-orpin.vercel.app/assets/gallery/coding-thumbnail-full.webp" },
+  { title: "How Your Phone Works — Tech Explainer Thumbnail", category: "Graphic Designing", year: "2026", preview: "assets/gallery/tech-explainer-thumbnail.webp", link: "https://abhijeet-portfolio-orpin.vercel.app/assets/gallery/tech-explainer-thumbnail-full.webp" }
 ];

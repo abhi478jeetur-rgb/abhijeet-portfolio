@@ -1,0 +1,41 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:Anton;src:url(../../assets/fonts/Anton-400.woff2)}
+@font-face{font-family:Inter;src:url(../../assets/fonts/Inter-var.woff2);font-weight:100 900}
+@font-face{font-family:Kaushan;src:url(../../assets/fonts/KaushanScript-400.woff2)}
+*{margin:0;box-sizing:border-box}
+body{width:1200px;height:630px;overflow:hidden;font-family:Inter;position:relative}
+.dark{background:radial-gradient(900px 520px at 72% 40%,#3a0d18 0%,#120a12 55%,#0b0d16 100%);color:#fff;--acc:#ff3b4f;--sub:#c9cbd6;--chip:rgba(255,255,255,.07);--chipb:rgba(255,255,255,.14)}
+.light{background:url(../../assets/img/hero-bg-1600.webp) center 30%/cover;color:#13294B;--acc:#e8a400;--sub:#294066;--chip:rgba(255,255,255,.78);--chipb:rgba(79,179,232,.55)}
+.light:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(255,252,240,.93) 0%,rgba(255,252,240,.82) 46%,rgba(255,252,240,0) 72%)}
+.big{position:absolute;left:560px;top:96px;white-space:nowrap;font-family:Anton;font-size:250px;line-height:1;letter-spacing:-4px;color:var(--acc);opacity:.55;
+  background:linear-gradient(180deg,var(--acc),rgba(120,10,25,.55));-webkit-background-clip:text;color:transparent}
+.light .big{background:linear-gradient(180deg,#FFD24A,#F5A800);-webkit-background-clip:text;-webkit-text-stroke:3px #fff;opacity:.75}
+.photo{position:absolute;right:120px;bottom:-40px;height:610px;filter:drop-shadow(0 20px 40px rgba(0,0,0,.45))}
+.l{position:absolute;left:70px;top:62px;width:600px;z-index:2}
+.tag{font-weight:700;font-size:20px;letter-spacing:3px;color:var(--acc)}
+.hi{font-family:Kaushan;font-size:58px;margin-top:26px;line-height:1}
+.name{font-family:Anton;font-size:150px;line-height:.95;letter-spacing:1px}
+.name i{font-style:normal;color:var(--acc)}
+.role{font-weight:800;font-size:30px;letter-spacing:1px;color:var(--acc);margin-top:8px}
+.light .role{color:#1f8fcf}
+.desc{font-size:23px;line-height:1.4;color:var(--sub);margin-top:14px;max-width:520px}
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;max-width:560px}
+.chips span{font-size:17px;font-weight:700;padding:8px 14px;border-radius:999px;background:var(--chip);border:1px solid var(--chipb)}
+.foot{position:absolute;left:70px;bottom:36px;z-index:2;font-size:19px;font-weight:700;letter-spacing:1px;display:flex;gap:18px;align-items:center}
+.foot b{color:var(--acc)}
+.badge{position:absolute;right:46px;top:40px;z-index:3;background:var(--acc);color:#fff;font-weight:900;font-size:20px;letter-spacing:2px;padding:12px 20px;border-radius:999px;transform:rotate(4deg);box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.light .badge{background:#4FB3E8}
+</style></head><body class="THEME">
+<div class="big">PORTFOLIO</div>
+<img class="photo" src="../../assets/img/cutout-1200.webp">
+<div class="badge">FIRST DEMO FREE</div>
+<div class="l">
+ <div class="tag">TAG</div>
+ <div class="hi">Hello, I'm</div>
+ <div class="name">ABHIJEET<i>.</i></div>
+ <div class="role">AI DEVELOPER &amp; CREATOR</div>
+ <div class="desc">DESC</div>
+ <div class="chips">CHIPS</div>
+</div>
+<div class="foot"><b>●</b> abhijeet-portfolio.vercel.app <span style="opacity:.6">·</span> Ranchi, India</div>
+</body></html>

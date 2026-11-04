@@ -41,3 +41,8 @@ node tools/prerender.js http://localhost:8090   # needs Playwright: bakes text +
 
 ## Deploy
 Upload the folder to Vercel as a static site. `vercel.json` sets cache headers and `.vercelignore` skips `tools/`. Vercel compresses files with brotli automatically.
+
+## Share previews (OG images)
+- `og.jpg` (home, dark) and `og-gallery.jpg` (gallery, light) are designed cards, 1200×630.
+- Regenerate: `node tools/og/render.js` (needs Playwright). Edit text in `tools/og/render.js`, layout in `tools/og/og.html`.
+- After changing them, bump `?v=` in `config.js` → `seo.ogImage` / `seo.galleryOgImage` and in the meta tags so WhatsApp, LinkedIn and X refresh the preview.

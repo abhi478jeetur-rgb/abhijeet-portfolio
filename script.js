@@ -112,7 +112,7 @@
     on('meta[name="description"]', (m) => (m.content = pageDesc));
     $$('[data-seo="canonical"]').forEach((l) => (l.href = pageUrl));
     $$('[data-seo="url"]').forEach((m) => (m.content = pageUrl));
-    $$('[data-seo="image"]').forEach((m) => (m.content = BASE + "/" + SEO.ogImage));
+    $$('[data-seo="image"]').forEach((m) => (m.content = BASE + "/" + (HOME ? SEO.ogImage : (SEO.galleryOgImage || SEO.ogImage))));
     on("#ld", (s) => (s.textContent = buildLD()));
 
     $$("[data-bind]").forEach((el) => {

@@ -245,6 +245,7 @@ const SITE = {
      link:     "https://example.com"              // "Open live ↗"
    }
    ===================================================================== */
-const GALLERY = [
-];
+const GALLERY = (typeof window !== "undefined")
+  ? [...(window.GALLERY_WEB || []), ...(window.GALLERY_DESIGN || [])]
+  : [];   // items live in gallery/web.js (Hark-Two) and gallery/design.js (Hark-One)
 const GALLERY_PLACEHOLDERS = true;   // show "Coming soon" tiles while GALLERY is empty

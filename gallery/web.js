@@ -1,5 +1,6 @@
 /* Website demos (owned by Hark-Two). Same item shape as config.js GALLERY docs. Newest first. */
 window.GALLERY_WEB = [
+  { title: "ChaseFree AI — AI Invoicing App", category: "Apps", year: "2026", preview: "assets/gallery/chasefree-ai.webp", link: "https://ai-invoise.vercel.app" },
   { title: "Aurora Lab", category: "3D Websites", year: "2026", preview: "assets/gallery/aurora-lab.webp", video: "assets/gallery/aurora-lab.webm", link: "https://abhi-aurora-lab.vercel.app" },
   { title: "Kinetic Sport", category: "3D Websites", year: "2026", preview: "assets/gallery/kinetic-sport.webp", video: "assets/gallery/kinetic-sport.webm", link: "https://abhi-kinetic-sport.vercel.app" },
   { title: "Nexus Studio", category: "3D Websites", year: "2026", preview: "assets/gallery/nexus-tunnel.webp", video: "assets/gallery/nexus-tunnel.webm", link: "https://abhi-nexus-tunnel.vercel.app" },
